@@ -6,9 +6,7 @@ A powerful, intelligent file organization tool with advanced categorization, ana
 
 ### 📋 Organization Profiles
 - **Standard Profile**: General-purpose file organization
-- **Developer Profile**: Optimized for code and development files
-- **Media Professional**: Tailored for creative workflows
-- **Custom Profile**: Fully customizable categories and extensions
+
 
 ### 🎯 Core Capabilities
 - 🔍 Content-based file type detection
@@ -97,24 +95,6 @@ streamlit run app.py
 - Video (mp4, avi, mkv, etc.)
 - Archives (zip, rar, 7z, etc.)
 
-#### Developer Profile
-- Source Code (py, js, java, cpp, etc.)
-- Configurations (json, yaml, xml, etc.)
-- Documentation (md, rst, tex, etc.)
-- Build Files (exe, dll, so, etc.)
-- Dependencies (pip, npm, jar, etc.)
-
-#### Media Professional
-- Raw Images (raw, cr2, nef, etc.)
-- Project Files (psd, ai, xd, etc.)
-- Renders (blend, c4d, etc.)
-- Audio Projects (wav, aup, etc.)
-- Video Projects (prproj, aep, etc.)
-
-#### Custom Profile
-- Fully customizable categories
-- User-defined extensions
-- Flexible organization rules
 
 ### Analytics Features
 - File count per category

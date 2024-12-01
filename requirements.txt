@@ -1,0 +1,9 @@
+streamlit==1.24.0
+pandas==2.0.2
+plotly==5.15.0
+python-magic==0.4.27
+Pillow==9.5.0
+humanize==4.6.0
+pathlib==1.0.1
+tkinter
+python-magic-bin; platform_system == "Windows"

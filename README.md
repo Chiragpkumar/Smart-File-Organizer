@@ -170,6 +170,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Streamlit team for the amazing framework
 - Python community for excellent libraries
 - Contributors and users for feedback and support
+<img width="1467" alt="Screenshot 2024-12-01 at 5 52 30 PM" src="https://github.com/user-attachments/assets/9e7e12e9-2a10-46b4-aa3c-3ada9a24c006">
+
+<img width="1467" alt="Screenshot 2024-12-01 at 5 53 51 PM" src="https://github.com/user-attachments/assets/ab0800a7-3951-45be-b3f0-0063c1fada31">
+
+
 
 ## 📞 Support
 
